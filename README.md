@@ -1,7 +1,7 @@
 Dependencies required to run Govin
 1. python2-minimal
 2. python2-tk
-3. python3-ppi
+3. python3-pip
 4. pyserial
    
 Needs arduino-1.8.19 to compile and uplood the code
